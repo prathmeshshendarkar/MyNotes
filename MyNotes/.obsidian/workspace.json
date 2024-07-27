@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "bc01580d015c0b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "966d652a9e1725bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "263592670bafe0f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16013735ca834e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "798f708013c6e11f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52018dd6408562dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d961edd8bbc9f1ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6030e3aa5beb7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "59610775760a88be",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c698bca693b3d09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06402acbd0a1e14e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e431f0deb9129dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c69e4c6e2fd46b63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b765e395e5565738",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "263592670bafe0f1",
+  "lastOpenFiles": [
+    "Javascript/Intermediate Stuffs.md",
+    "MyNotes/MyNotes/YoutubeVideos/Ideas.md",
+    "MyNotes/MyNotes/YoutubeVideos/25th July 2024.md",
+    "MyNotes/MyNotes/YoutubeVideos",
+    "MyNotes/MyNotes/ReactJS/Good Links.md",
+    "MyNotes/MyNotes/ReactJS/Fundamentals.md",
+    "MyNotes/MyNotes/ReactJS/Components Lifecycle phases.md",
+    "MyNotes/MyNotes/ReactJS",
+    "MyNotes/MyNotes/Projects/Placement Cell/Students.md",
+    "MyNotes/MyNotes/Projects/Placement Cell",
+    "MyNotes/MyNotes/Projects",
+    "MyNotes/MyNotes/Posts/Pasted image 20240710223738.png",
+    "MyNotes/MyNotes/Posts/Why should we use const instead of let and var.md",
+    "MyNotes/MyNotes/Posts/DSA vs Dev.md",
+    "MyNotes/MyNotes/Posts",
+    "MyNotes/MyNotes/NodeJS/Projects/Authentication System.md",
+    "MyNotes/MyNotes/NodeJS/Projects/Simple Web Server.md",
+    "MyNotes/MyNotes/NodeJS/Projects",
+    "MyNotes/MyNotes/NodeJS/Intermediate.md",
+    "MyNotes/MyNotes/NodeJS/Fundamentals.md",
+    "MyNotes/MyNotes/NodeJS",
+    "MyNotes/MyNotes/MongoDB/Operators/Set.md",
+    "MyNotes/MyNotes/MongoDB/Operators",
+    "MyNotes/MyNotes/MongoDB/Fundamentals Part.md",
+    "MyNotes/MyNotes/MongoDB",
+    "MyNotes/MyNotes/Javascript/Explanations/this Keyword in javascript.md",
+    "MyNotes/MyNotes/Javascript/Explanations/Prototypes.md",
+    "MyNotes/MyNotes/Javascript/Explanations/Promises.md",
+    "MyNotes/MyNotes/Javascript/Explanations/More About Functions.md",
+    "MyNotes/MyNotes/Javascript/Explanations/Hoisting and Temporal Dead Zone.md",
+    "MyNotes/MyNotes/Javascript/Explanations/Constructor Functions.md",
+    "MyNotes/MyNotes/Javascript/Explanations/Closures.md",
+    "MyNotes/MyNotes/Javascript/Explanations/Callbacks.md",
+    "MyNotes/MyNotes/Javascript/Intermediate Stuffs.md",
+    "MyNotes/MyNotes/Javascript/Fundamentals.md",
+    "MyNotes/MyNotes/Javascript/Explanations",
+    "MyNotes/MyNotes/images/Pasted image 20240715145743.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715145337.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715145139.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715010130.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715004625.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715003255.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715003122.png",
+    "MyNotes/MyNotes/images/Pasted image 20240715001118.png",
+    "MyNotes/MyNotes/images/Pasted image 20240714233442.png",
+    "MyNotes/MyNotes/CSS/Tailwind CSS.md"
+  ]
+}
