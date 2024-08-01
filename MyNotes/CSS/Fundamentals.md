@@ -25,3 +25,4 @@ const Nav = styled.component.nav`
 	<Nav className={{backgroundColor: 'blue'}}
 ```
 2. The inline styling needs to have camel casing nature. So every property will have camel casing ability.
+
