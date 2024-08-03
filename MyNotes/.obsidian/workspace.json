@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/Explanations/Relational Keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f06428106c7bfa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/DBMS Intro.md",
+                "file": "MySQL/MySQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/DBMS Intro.md",
+                "file": "MySQL/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/DBMS Intro.md",
+                "file": "MySQL/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/DBMS Intro.md"
+                "file": "MySQL/MySQL.md"
               }
             }
           }
@@ -159,10 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f06428106c7bfa6",
+  "active": "33d08f40fd510cf2",
   "lastOpenFiles": [
-    "MySQL/Explanations/Relational Keys.md",
     "MySQL/DBMS Intro.md",
+    "MySQL/MySQL.md",
+    "MySQL/Explanations/MySQL Commands.md",
+    "MySQL/Explanations/Integrity Constraints.md",
+    "Pasted image 20240803193638.png",
+    "MySQL/Explanations/MySQL Data Types.md",
+    "Pasted image 20240802190817.png",
+    "MySQL/Designing a Database.md",
+    "MySQL/Explanations/Relational Keys.md",
+    "DailyNotes/02/08/24.md",
+    "DailyNotes/02/08",
+    "DailyNotes/02",
     "MySQL/Explanations",
     "Pasted image 20240801211513.png",
     "Pasted image 20240801211509.png",
@@ -188,24 +185,14 @@
     "NodeJS/Books to read.md",
     "NodeJS/Explanations/Event Emitter.md",
     "DailyNotes/29/07/24.md",
-    "DailyNotes/29/07",
-    "DailyNotes/29",
     "NodeJS/Intermediate.md",
     "NodeJS/Fundamentals.md",
     "Javascript/Intermediate Stuffs.md",
     "MyNotes/MyNotes/YoutubeVideos/Ideas.md",
-    "MyNotes/MyNotes/YoutubeVideos/25th July 2024.md",
-    "MyNotes/MyNotes/ReactJS/Good Links.md",
-    "MyNotes/MyNotes/ReactJS/Fundamentals.md",
-    "MyNotes/MyNotes/ReactJS/Components Lifecycle phases.md",
-    "MyNotes/MyNotes/Projects/Placement Cell/Students.md",
     "MyNotes/MyNotes/Posts/Pasted image 20240710223738.png",
-    "MyNotes/MyNotes/Posts/Why should we use const instead of let and var.md",
     "MyNotes/MyNotes/images/Pasted image 20240715145743.png",
     "MyNotes/MyNotes/images/Pasted image 20240715145337.png",
     "MyNotes/MyNotes/images/Pasted image 20240715145139.png",
-    "MyNotes/MyNotes/images/Pasted image 20240715010130.png",
-    "MyNotes/MyNotes/images/Pasted image 20240715004625.png",
-    "MyNotes/MyNotes/images/Pasted image 20240715003255.png"
+    "MyNotes/MyNotes/images/Pasted image 20240715010130.png"
   ]
 }
