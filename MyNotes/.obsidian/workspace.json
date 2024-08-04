@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/MySQL.md",
+                "file": "MySQL/Explanations/Filtering in MYSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/MySQL.md",
+                "file": "MySQL/Explanations/Filtering in MYSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/MySQL.md",
+                "file": "MySQL/Explanations/Filtering in MYSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/MySQL.md"
+                "file": "MySQL/Explanations/Filtering in MYSQL.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "33d08f40fd510cf2",
   "lastOpenFiles": [
-    "MySQL/DBMS Intro.md",
     "MySQL/MySQL.md",
+    "MySQL/Explanations/Filtering in MYSQL.md",
+    "MySQL/DBMS Intro.md",
     "MySQL/Explanations/MySQL Commands.md",
     "MySQL/Explanations/Integrity Constraints.md",
     "Pasted image 20240803193638.png",
@@ -188,7 +189,6 @@
     "NodeJS/Intermediate.md",
     "NodeJS/Fundamentals.md",
     "Javascript/Intermediate Stuffs.md",
-    "MyNotes/MyNotes/YoutubeVideos/Ideas.md",
     "MyNotes/MyNotes/Posts/Pasted image 20240710223738.png",
     "MyNotes/MyNotes/images/Pasted image 20240715145743.png",
     "MyNotes/MyNotes/images/Pasted image 20240715145337.png",
