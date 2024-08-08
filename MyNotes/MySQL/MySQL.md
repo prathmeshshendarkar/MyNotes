@@ -18,6 +18,17 @@
 ## Commands
 1. ![[Pasted image 20240803193638.png]]
 2. Check Here for more details: [[MySQL Commands]]
+3. Every Command has a specific structure they follow
+```
+CREATE : CommandName(CREATE) Whatyouwanttocreate(TABLE) Whatisthenameofthecreation(Student) (
+	Whatcolumnyouwanttoinsert(Stud_Id) Whattypeofdatawillbeinserted(INT) Isthereanyotherconstraints(PRIMARY KEY , NOT NULL, UNIQUE, DEFAULT, ),
+
+	Anyotherconstraint(PRIMARY KEY) Attributename(Name of column),
+	Anyotherconstraint(FOREIGN KEY) Attirbutename(Name of column) Wheredoyouwanttoattach(REFERENCES) Tablename(placements(stud_college)),
+	
+	Attheendanyotherconstraints(CONSTRAINT) Constrainname(stud_college_constraint) Whatistheconstraint(CHECK(stud_college == "IIT"));
+)
+```
 
 ## Execution Contexts
 1. Whenever we write any command using select operator and fetch something from a table the order of execution is from right side.
