@@ -1,2 +1,1 @@
-# CSS
-
+## Just simple notes on whatever I read
