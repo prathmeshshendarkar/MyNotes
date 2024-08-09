@@ -17,3 +17,11 @@
 	@tailwind utilities;
 ```
 
+4. Tailwind.config.js
+	1. Add below contents in the content property to ensure that you want these files to have tailwind property added.
+```
+content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ]
+```

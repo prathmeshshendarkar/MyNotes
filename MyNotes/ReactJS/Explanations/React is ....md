@@ -1,0 +1,3 @@
+## React is ...
+1. Library to build user interfaces.
+2. Composable(Components based) so, Reusable components.

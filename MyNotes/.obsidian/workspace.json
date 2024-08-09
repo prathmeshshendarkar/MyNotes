@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33d08f40fd510cf2",
+            "id": "d945cd32bc3fddec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/Explanations/Filtering in MYSQL.md",
+                "file": "NodeJS/README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "right": {
     "id": "59610775760a88be",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/Explanations/Filtering in MYSQL.md",
+                "file": "NodeJS/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/Explanations/Filtering in MYSQL.md",
+                "file": "NodeJS/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/Explanations/Filtering in MYSQL.md"
+                "file": "NodeJS/README.md.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d08f40fd510cf2",
+  "active": "d945cd32bc3fddec",
   "lastOpenFiles": [
+    "ReactJS/README.md.md",
+    "Schedule.md",
+    "ReactJS/Good Links.md",
+    "ReactJS/Explanations/Components Lifecycle phases.md",
+    "ReactJS/Fundamentals.md",
+    "ReactJS/Explanations/UseRef.md",
+    "ReactJS/Explanations/Babel in React..md",
+    "ReactJS/Explanations/How to add react elements to our ReactDOM.md",
+    "ReactJS/Explanations/React is ....md",
+    "ReactJS/Explanations",
+    "ReactJS/Explanations/Conditional Rendering.md",
+    "ReactJS/Explanations/Setting State.md",
+    "ReactJS/Explanations/Binding this keyword in a class.md",
+    "ReactJS/Explanations/React Class Components.md",
+    "ReactJS/Explanations/JSX in React.md",
+    "ReactJS/Explanations/Components in React.md",
+    "ReactJS/Explanations/Fragments in React.md",
+    "ReactJS/Explanations/Virtual DOM.md",
+    "ReactJS/Explanations/CDN Links.md",
+    "ReactJS/Explanations/Features of react.md",
+    "NodeJS/README.md.md",
+    "MySQL/README.md.md",
+    "MySQL/Explanations/Filtering in MYSQL.md",
     "MySQL/Explanations/GroupingData.md",
     "MySQL/Explanations/Integrity Constraints.md",
-    "MySQL/Explanations/MySQL Commands.md",
-    "MySQL/Explanations/MySQL Data Types.md",
-    "MySQL/Explanations/Relational Keys.md",
-    "MySQL/Explanations/Queries with Tables and Constraints.md",
     "MySQL/MySQL.md",
-    "MySQL/Designing a Database.md",
-    "Projects/drawForFun/Tasks.md",
-    "Javascript/Explanations/Why do you want to create a HTTP Server?.md",
+    "MySQL/Explanations/MySQL Commands.md",
+    "MongoDB/Explanations",
+    "images/Pasted image 20240805220422.png",
     "Projects/drawForFun",
-    "Javascript/Explanations/CORS Library.md",
-    "Pasted image 20240808000854.png",
-    "Pasted image 20240807164133.png",
-    "MySQL/DBMS Intro.md",
-    "Javascript/Fundamentals.md",
-    "MySQL/Explanations/Queries with Tables and Constrainst.md",
-    "Javascript/Explanations/Error First callback functions.md",
-    "Javascript/Explanations/Callbacks.md",
-    "Pasted image 20240806093559.png",
-    "MySQL/Explanations/Filtering in MYSQL.md",
-    "Pasted image 20240805220422.png",
+    "images/Pasted image 20240808000854.png",
+    "images/Pasted image 20240807164133.png",
+    "images/Pasted image 20240806093559.png",
     "Pasted image 20240803193638.png",
     "Pasted image 20240802190817.png",
-    "DailyNotes/02/08/24.md",
     "DailyNotes/02/08",
     "DailyNotes/02",
     "MySQL/Explanations",
     "Pasted image 20240801211513.png",
     "Pasted image 20240801211509.png",
     "Pasted image 20240801210916.png",
-    "CSS/Tailwind CSS.md",
     "MySQL",
-    "CSS/Fundamentals.md",
-    "NodeJS/Explanations/Creating HTTP Server.md",
-    "DailyNotes/01/08/1st August 2024.md",
-    "NodeJS/Explanations/Express.md",
     "DailyNotes/01/08",
     "DailyNotes/01",
-    "NodeJS/Explanations/Process.md",
-    "MongoDB/Mongoose.md",
-    "DailyNotes/31/07/24.md",
     "DailyNotes/31/07",
-    "DailyNotes/31",
-    "DailyNotes/30/07",
     "MyNotes/MyNotes/Posts/Pasted image 20240710223738.png"
   ]
 }

@@ -1,3 +1,0 @@
-## Set Operator
-[[Set]]
-

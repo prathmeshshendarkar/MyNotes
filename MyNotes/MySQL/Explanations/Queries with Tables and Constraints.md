@@ -64,3 +64,23 @@ CHECK
 		CONSTRAINT stud_college CHECK(stud_id == "IIT")
 	);
 ```
+
+Examples
+```
+CREATE TABLE customer (
+    ID INT PRIMARY KEY NOT NULL,
+    Name VARCHAR(50) NOT NULL,
+    City VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE contacts (
+    ID INT PRIMARY KEY,
+    Customer_Id INT,
+    Customer_Info VARCHAR(50) NOT NULL,
+    Type VARCHAR(50) NOT NULL,
+    FOREIGN KEY(Customer_Id) REFERENCES customer(ID)
+);
+
+DESC customer;
+DESC contacts;
+```

@@ -1,0 +1,2 @@
+## Babel in React.
+- Babel is the transpiler for newer syntax of JS. These newer syntax of JS like JSX is not supported by old browser. Babel will compile the JSX into plain JS code which older browser supports.
