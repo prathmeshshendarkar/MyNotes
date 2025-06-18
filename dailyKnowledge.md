@@ -1,0 +1,4 @@
+# Daily Knowledge
+
+## Typescript
+

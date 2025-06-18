@@ -1,0 +1,61 @@
+Redux : Predictable state container by connecting React components to centralized store.
+
+# Three core concepts in Redux
+
+1. Store : This holds the object together in a store.
+2. Actions : This performs specific actions that needs to be performed such that store will be updated.
+3. Reducers : This holds together store and actions.
+
+Example for above scenario : A customer comes in the shop to purchase a cake. The owner has several cakes stored in a store(Redux store). Then we tell the owner to get me a cake. Owner performs a action and reduce the x number of cake from the total.(Redux Actions). After that we have (Redux reducers) where owner in this case holds together all the things.
+
+Overview of these three principles
+1. Our Javascript App subscribes to the Store(Redux). Javascript app cannot directly update the state of the store, we need to go through actions. The application sends(dispatches) an actions which then goes to Pure reducer functions which returns a new updated object. This object is then updated to the store.
+
+# Actions
+1. Action : object with a type property
+2. Action creators : That returns the actions
+
+# Store
+1. Holds application state
+2. Allow access to state via getState()
+3. Allow state to be updated via dispatch(action)
+4. Registers listeners via subscribe(listener)
+	- This listener function is executed whenever particular state changes from the store.
+	- We can unsubscribe by calling the function which was returned from the subscribe(listener)
+
+# Inshort
+Create a store -> Define the action creators and action types -> Then define the reducers -> Subscribe to the events -> Dispatch the events -> If you want then unsubscribe from the events.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

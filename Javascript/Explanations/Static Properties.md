@@ -1,0 +1,2 @@
+### Static Properties
+1. Static properties are something that you can access without creating an instance of the class. On the other hand, the instance will not have access to the static properties of a class.
