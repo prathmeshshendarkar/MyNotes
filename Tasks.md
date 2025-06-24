@@ -1,4 +1,1 @@
-- [x] FrontEnd interface of drawForFun where people can join by specifying room ID.
-- [x] Work on how socket client will work in front end application.
-- [ ] Backend Logic of how rooms work in socket.io library
-- [ ] Queries with tables and constraints in Mysql
+### 24th June 2025
